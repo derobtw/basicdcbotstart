@@ -1,2 +1,2 @@
 # basicdcbotstart
-The start of a basic Discord Bot.
+A little start for a Discord Bot.
